@@ -1,5 +1,7 @@
 # Noughts and crosses React APP
 
+A simple React app for a noughts and crosses game
+
 ## Installation
 
 1. Clone respository
